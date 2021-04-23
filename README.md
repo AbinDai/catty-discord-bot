@@ -2,7 +2,7 @@
 A Discord bot that talks about animal. Written in discord.py by myself. Feel free to use this code:)
 
 ## Requirements
-discord.py
+discord.py\n
 Python 3.5+
 
 ## Installation
