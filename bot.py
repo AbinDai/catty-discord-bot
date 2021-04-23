@@ -19,4 +19,4 @@ async def on_ready():
     change_status.start()
     print("bot siap!")
 
-client.run("ODI1NzYxNzU2MjUyNzMzNTMx.YGCokA.MDjdOHB9oXATARAQWncvTNED0F4")
+client.run(os.environ["DISCORD_TOKEN"])
