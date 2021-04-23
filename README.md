@@ -7,10 +7,10 @@ discord.py
 Python 3.5+
 
 ## Installation
-First, you have to download Python from it's website https://python.org/, then install it. Don't forget to check the `pip` while installing because we'll need it later.
+First, you have to download Python from its website [here](https://python.org/), then install it. Don't forget to check the `pip` box while installing because we'll need it later.
 Now, open your command prompt, type `pip install discord` to install the discord.py library. Wait until the installation done.
 
-Create your bot account in the Discord Developer Portal here: https://discord.com/developers/applications/, and invite it to your server by accessing its Oauth2 invitation link.
+Create your bot account in the Discord Developer Portal [here](https://discord.com/developers/applications/), and invite it to your server by accessing its Oauth2 invitation link.
 Get the bot's token, open the bot.py file, and paste it on the `client.run("PASTE YOUR BOT'S TOKEN HERE")`.
 Run the bot.py file, and there you go.
 
