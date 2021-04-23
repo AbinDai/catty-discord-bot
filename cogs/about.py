@@ -18,7 +18,6 @@ class About(commands.Cog):
                           "Library⠀⠀⠀⠀  ⠀: discord.py\n"
                           f"Library version: {discord.__version__}\n"
                           f"Bot's latency  : {round(self.client.latency*1000)}ms\n"
-                          "GitHub Repo    : https://github.com/AbinDai/catty-discord-bot"
                           "```",
             color = ctx.guild.get_member(825761756252733531).color
         )
