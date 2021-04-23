@@ -11,7 +11,7 @@ class Help(commands.Cog):
             title = "Catty Bot Command List",
             description = "Hi, I'm Catty! A Discord bot that has an animal based commands.\n"
                           "Use `c!help [command name]` to see an info about a command.\n"
-                          "I also have a GitHub repo! [Heres](https://github.com/AbinDai/catty-discord-bot/) the link."
+                          "I also have a GitHub repo! [Heres](https://github.com/AbinDai/catty-discord-bot/) the link.\n"
                           "⠀\n"
                           "**Main Commands**\n"
                           "`c!catimages`\n"
