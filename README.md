@@ -17,4 +17,4 @@ Run the bot.py file, and there you go.
 ## Try the bot! :v
 If you want to try this bot, [heres](https://discord.com/api/oauth2/authorize?client_id=825761756252733531&permissions=84992&scope=bot) the invite link.
 
-Thank you and have a nice day:)
+### Thank you and have a nice day:)
